@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\RuFi\Desktop\CourseWork\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Users\RuFi\Desktop\CourseWork\Unit2.cpp=C:\Users\RuFi\Desktop\CourseWork\FindTabble.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,C:\Users\RuFi\Desktop\CourseWork\Class.h=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit18.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,C:\Users\RuFi\Desktop\CourseWork\Resource.dfm=C:\Users\RuFi\Desktop\CourseWork\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,C:\Users\RuFi\Desktop\CourseWork\Main.dfm=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit17.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Users\RuFi\Desktop\CourseWork\Unit2.dfm=C:\Users\RuFi\Desktop\CourseWork\FindTabble.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,C:\Users\RuFi\Desktop\CourseWork\Class.cpp=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit18.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,=C:\Users\RuFi\Desktop\CourseWork\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,C:\Users\RuFi\Desktop\CourseWork\Resource.h=C:\Users\RuFi\Desktop\CourseWork\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\RuFi\Desktop\CourseWork\AddTrack.h=C:\Users\RuFi\Desktop\CourseWork\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\RuFi\Desktop\CourseWork\Unit1.cpp=C:\Users\RuFi\Desktop\CourseWork\Find.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,=C:\Users\RuFi\Desktop\CourseWork\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,C:\Users\RuFi\Desktop\CourseWork\Main.h=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit17.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\RuFi\Desktop\CourseWork\AddTrack.dfm=C:\Users\RuFi\Desktop\CourseWork\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Users\RuFi\Desktop\CourseWork\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\RuFi\Desktop\CourseWork\Unit1.h=C:\Users\RuFi\Desktop\CourseWork\Find.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,C:\Users\RuFi\Desktop\CourseWork\coursework.h=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\RuFi\Desktop\CourseWork\course.cbproj=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Project15.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit17.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\Users\RuFi\Desktop\CourseWork\FindTabble.h=C:\Users\RuFi\Desktop\CourseWork\FindTable.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit18.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\RuFi\Desktop\CourseWork\Unit1.dfm=C:\Users\RuFi\Desktop\CourseWork\Find.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,C:\Users\RuFi\Desktop\CourseWork\Main.cpp=C:\Users\RuFi\Documents\Embarcadero\Studio\Projects\Unit17.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\RuFi\Desktop\CourseWork\AddTrack.cpp=C:\Users\RuFi\Desktop\CourseWork\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\Users\RuFi\Desktop\CourseWork\FindTabble.cpp=C:\Users\RuFi\Desktop\CourseWork\FindTable.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Users\RuFi\Desktop\CourseWork\Unit2.h=C:\Users\RuFi\Desktop\CourseWork\FindTabble.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\Users\RuFi\Desktop\CourseWork\FindTabble.dfm=C:\Users\RuFi\Desktop\CourseWork\FindTable.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,C:\Users\RuFi\Desktop\CourseWork\Resource.cpp=C:\Users\RuFi\Desktop\CourseWork\Unit4.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AddTrack.cpp"/>
+    <File Path="AddTrack.cpp"/>
+    <File Path="AddTrack.dfm"/>
+    <File Path="AddTrack.h"/>
+    <File Path="Class.cpp"/>
+    <File Path="Class.cpp"/>
+    <File Path="Class.h"/>
+    <File Path="course.cpp"/>
+    <File Path="coursework.h"/>
+    <File Path="Find.cpp"/>
+    <File Path="Find.cpp"/>
+    <File Path="Find.dfm"/>
+    <File Path="Find.h"/>
+    <File Path="FindTable.cpp"/>
+    <File Path="FindTable.cpp"/>
+    <File Path="FindTable.dfm"/>
+    <File Path="FindTable.h"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="Resource.cpp"/>
+    <File Path="Resource.cpp"/>
+    <File Path="Resource.dfm"/>
+    <File Path="Resource.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
